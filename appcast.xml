@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.1.0</title>
+      <pubDate>Wed, 23 Sep 2026 14:37:45 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.1.0</h3><ul><li>Three new breeds: a golden retriever and a corgi for dog people, and a snow monkey.</li><li>Dogs and monkeys have voices of their own: a dog yips when you pet it, a monkey chatters.</li><li>A monkey leaves hand prints on the glass, not paw prints, and reaches for the close button with its hand.</li><li>The menu bar icon is your pet&#x27;s own animal — a cat, a dog or a monkey — and changes the moment you change it.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.1.0/UnbelievableJungle-2.1.0.zip" sparkle:edSignature="TxI3G1oZrJO50PuVBAtVPzHAM6TPOh46Xm8COTlLfCunC2IUlSb39/VuVJJsDQvkEriGtT5+0a782UZSE1TJDg==" length="16035169" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.0.1</title>
       <pubDate>Wed, 23 Sep 2026 13:14:54 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
