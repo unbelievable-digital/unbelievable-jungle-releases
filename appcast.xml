@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.2.0</title>
+      <pubDate>Wed, 23 Sep 2026 16:03:02 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.2.0</h3><ul><li>Pets notice each other: a visitor from the office and your pet say hello, sniff, chase each other and go for the same ball.</li><li>Tricks: teach your pet to sit and spin — a dog also gives a paw and plays dead, a monkey waves and flips, a cat high-fives. Practice makes perfect.</li><li>A new pet starts small and grows up over its first three weeks.</li><li>A widget for your desktop and Notification Center, with your pet and its needs.</li><li>Real recorded voices: a dog barks and a monkey chatters when you pet them.</li><li>Install with Homebrew: brew install --cask unbelievable-digital/tap/unbelievable-jungle</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.2.0/UnbelievableJungle-2.2.0.zip" sparkle:edSignature="zUC7iHPd9XDQ6atylj1q1rkoSFi8smJvxjQzhFRHhWFLg9zhThMAxhM3L52+UPuRFH2VBTYmX1vNL06btVqfAg==" length="18600746" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.1.0</title>
       <pubDate>Wed, 23 Sep 2026 14:37:45 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
