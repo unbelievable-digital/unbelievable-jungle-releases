@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.3.0</title>
+      <pubDate>Wed, 23 Sep 2026 18:17:46 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.3.0</h3><ul><li>A dolphin: it lives in a strip of sea above your Dock, swims, leaps, dives and surfaces somewhere else.</li><li>Feed it and a fish falls into the water; the dolphin hunts it down or catches it in mid-air.</li><li>Beach ball, a squirt at your cursor, its own tricks and a real recorded dolphin call.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.3.0/UnbelievableJungle-2.3.0.zip" sparkle:edSignature="S/41vYRtmOi1saKQIxr78DKkTv1U2QJCe46erfE+6jQIdzB2CkvSnOu2hJ4VLvQ0xgHREM9vh6knUPNiTeKQAg==" length="19773290" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.2.0</title>
       <pubDate>Wed, 23 Sep 2026 16:03:02 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
