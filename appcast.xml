@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.1</title>
+      <pubDate>Wed, 23 Sep 2026 13:14:54 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.0.1</h3><ul><li>Every animal now eats, plays and goes in its own way: a monkey gets bananas on a leaf and a coconut, a dog gets a bone on its dinner, a tennis ball and a pee pad.</li><li>The thought bubble and Pet Home show your animal&#x27;s own food and toy.</li><li>If Unbelievable Cat opened when you logged in, Unbelievable Jungle now does too — or asks, if it cannot tell.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.0.1/UnbelievableJungle-2.0.1.zip" sparkle:edSignature="h1dxNWSOacxBgudZapWUr8r7ChQLGwttl6Ca6nIhuCSsqv1mkl8yla4ziJmcHGN1+nu6b8PqiW2QKStKk4UTCQ==" length="12588732" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.0.0</title>
       <pubDate>Wed, 23 Sep 2026 13:04:16 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
