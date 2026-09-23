@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Unbelievable Jungle</title>
+    <link>https://github.com/unbelievable-digital/unbelievable-jungle-releases</link>
+    <description>Unbelievable Jungle updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.0.0</title>
+      <pubDate>Wed, 23 Sep 2026 13:04:16 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.0.0</h3><ul><li>Unbelievable Cat is now Unbelievable Jungle — and your pet can be a cat, a dog or a monkey.</li><li>Coming from Unbelievable Cat? Your cat comes with you: its name, how well it knows you, its needs, its office and its polaroids. Unbelievable Cat hands it over and closes itself.</li><li>Each animal has its own nature. A dog stays close, begs and fetches the ball back — and never climbs your windows. A monkey climbs everything, and the yarn and your mug are not safe.</li><li>Dogs and monkeys speak English, Turkish and Bulgarian in their own way, and have jokes of their own.</li><li>Accessories fit every animal. The office works across animals too: a dog can visit a cat&#x27;s screen.</li><li>A new icon.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.0.0/UnbelievableJungle-2.0.0.zip" sparkle:edSignature="PQ7SZT3RTOKJwkAQ7cEAVcutFLOO1apCD6QXGOptM5Jp3yJUmfouubFHkNNvJg8xXIw4I/SdqhSBQ5dh0/qoAw==" length="12577674" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
