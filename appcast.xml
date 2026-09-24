@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.4.1</title>
+      <pubDate>Thu, 24 Sep 2026 17:35:27 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.4.1</h3><ul><li>Collars, bows and hats sit right on every cat breed</li><li>On cats with a collar in their drawing, the worn collar goes right over it</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.4.1/UnbelievableJungle-2.4.1.zip" sparkle:edSignature="TWddXrb18m/p0nk3nKHpqOLW2r3eGEWu+eQcr51P+zZYYsi1EZWKMd/aHAainYKmb7cLLpEnuMPmEmxL83/nAw==" length="19823024" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.4.0</title>
       <pubDate>Thu, 24 Sep 2026 12:00:10 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
