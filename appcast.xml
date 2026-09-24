@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.4.0</title>
+      <pubDate>Thu, 24 Sep 2026 12:00:10 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.4.0</h3><ul><li>Choose Come Here! with the pointer on another screen and your pet walks over, and its things move with it.</li><li>Steps aside when its screen goes full screen for a presentation, a film or a game, and comes back when it ends.</li><li>Optional: follows you to the screen you have been working on for ten minutes; office visitors can stay on a screen of their own.</li><li>Notices a display being plugged in or pulled out. Screens stacked one above the other now work: a pet carried up lands on that floor and can be carried back down.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.4.0/UnbelievableJungle-2.4.0.zip" sparkle:edSignature="1K6pGCxmPd/rpgVcME1kvUXsQAxw3J6DwATXkBx/1UUUKxAsUtm+ZvBmqP/bXipfupaH8KmUiQujorBgAD7ODA==" length="19814839" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.3.1</title>
       <pubDate>Thu, 24 Sep 2026 11:09:11 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
