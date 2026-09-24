@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.3.1</title>
+      <pubDate>Thu, 24 Sep 2026 11:09:11 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.3.1</h3><ul><li>Several screens: your pet lives on one of them and is never cut in half at the seam between two displays.</li><li>Drag your pet onto another screen and it moves in there — bowls, litter box and toys come along.</li><li>Lighter with three or four displays: screens without a pet no longer redraw the scene.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.3.1/UnbelievableJungle-2.3.1.zip" sparkle:edSignature="Prld/YtJNC8gk9MSmR5QJ/5bgroXRPpQzjkF0QzvG1nm5Oj5dsVbaxiD9p767gEqmnNA36yx6bkxufkkWcryAw==" length="19793746" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.3.0</title>
       <pubDate>Wed, 23 Sep 2026 18:17:46 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
