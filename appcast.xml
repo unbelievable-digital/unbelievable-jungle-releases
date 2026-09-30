@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.6.1</title>
+      <pubDate>Wed, 30 Sep 2026 16:46:19 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.6.1</h3><ul><li>Settings → iPhone is open to everyone: pair the iPhone app (in beta on TestFlight) with a QR code.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.6.1/UnbelievableJungle-2.6.1.zip" sparkle:edSignature="1nO8Ds2E/Rgx4WzBx2fxbZENsKBA77I2I2QcxlKT5lJQJb4dCr5I+MWXjztmp3oEwmGWY1j3FhqpQzSDLFFNAA==" length="20292902" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.6.0</title>
       <pubDate>Wed, 30 Sep 2026 16:33:23 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
