@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.5.0</title>
+      <pubDate>Wed, 30 Sep 2026 11:44:50 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.5.0</h3><ul><li>Shortcuts and Siri: feed, water, pet, play, nap, call your pet over, celebrate, say something, and ask how your pet is.</li><li>Links: open unbelievable-jungle://celebrate at the end of a build and your pet throws confetti.</li><li>Winter: gentle snow from December to February, a Santa hat at New Year and confetti at midnight.</li><li>Your pet dances when Apple Music or Spotify is playing — never during a call.</li><li>A low battery makes it sleepy; the charger perks it up.</li><li>Now speaks German and Spanish too.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.5.0/UnbelievableJungle-2.5.0.zip" sparkle:edSignature="q7nhDCO8za2LRDVMG1uoFzSmelYufpxDSAyF3AlxSWxFqq8hxwYj6z67YjVYRTW9eoszLkUBk1GTSYIGEuckBg==" length="20086878" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.4.1</title>
       <pubDate>Thu, 24 Sep 2026 17:35:27 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
