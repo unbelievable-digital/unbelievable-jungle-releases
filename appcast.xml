@@ -6,6 +6,15 @@
     <description>Unbelievable Jungle updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.6.0</title>
+      <pubDate>Wed, 30 Sep 2026 16:33:23 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in 2.6.0</h3><ul><li>Accounts, if you want one: sign in with Apple or with an email and password in Settings → Account.</li><li>Signed in, your pet is backed up — never your hours, your apps or your photos — and comes back when you sign in on a new Mac.</li><li>Delete your account in Settings and everything we kept goes with it.</li></ul>]]></description>
+      <enclosure url="https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v2.6.0/UnbelievableJungle-2.6.0.zip" sparkle:edSignature="+gR6M0A9Bgv2gR64Iw4gjde3YU1WxSxVjYZivYbUyE7ql96ZojJpCopgOqWvjL7K3q9MwPhDtRxSJyZiu4d8Bw==" length="20293176" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.5.0</title>
       <pubDate>Wed, 30 Sep 2026 11:44:50 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
